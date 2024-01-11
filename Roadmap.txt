@@ -106,7 +106,46 @@ Jan 08 - 101 | Ongoing
 Jan 09 - 102 | Ongoing 
 Jan 10 - 103 | Ongoing 
 Jan 11 - 104 | Ongoing
-144
-NT1
-NT2
-NT3
+Jan 12 - 105 | Ongoing
+Jan 13 - 106 | Ongoing
+Jan 14 - 107 | Ongoing
+Jan 15 - 108 | Ongoing
+Jan 16 - 109 | Ongoing
+Jan 17 - 110 | Ongoing
+Jan 18 - 111 | Ongoing
+Jan 19 - 112 | Ongoing
+Jan 20 - 113 | Ongoing
+Jan 21 - 114 | Ongoing
+Jan 22 - 115 | Ongoing
+Jan 23 - 116 | Ongoing
+Jan 23 - 117 | Ongoing
+Jan 24 - 118 | Ongoing
+Jan 25 - 119 | Ongoing
+Jan 26 - 120 | Ongoing
+Jan 27 - 121 | Ongoing
+Jan 28 - 122 | Ongoing
+Jan 29 - 123 | Ongoing
+Jan 30 - 124 | Ongoing
+Jan 31 - 125 | Ongoing
+Feb 01 - 126 | Ongoing
+Feb 02 - 127 | Ongoing
+Feb 03 - 128 | Ongoing
+Feb 04 - 129 | Ongoing
+Feb 05 - 130 | Ongoing
+Feb 06 - 131 | Ongoing
+Feb 07 - 132 | Ongoing
+Feb 08 - 133 | Ongoing
+Feb 09 - 134 | Ongoing
+Feb 10 - 135 | Ongoing
+Feb 11 - 136 | Ongoing
+Feb 12 - 137 | Ongoing
+Feb 13 - 138 | Ongoing
+Feb 14 - 139 | Ongoing
+Feb 15 - 140 | Ongoing
+Feb 16 - 141 | Ongoing
+Feb 17 - 142 | Ongoing
+Feb 18 - 143 | Ongoing
+Feb 19 - 144 | Ongoing
+Feb 20 - NT1 | Ongoing
+Feb 21 - NT2 | Ongoing
+Feb 22 - NT3 | Ongoing
